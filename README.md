@@ -35,8 +35,6 @@
 
 ### 📊 My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carloscabani&theme=nightfox&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-
 
 ![carloscabani GitHub stats](https://github-readme-stats.vercel.app/api?username=carloscabani&show_icons=true&theme=radical) 
 
