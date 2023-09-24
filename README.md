@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200" />
   <style>
         .titulo {
-            text-align: center; /* Centra el texto horizontalmente */
-            color: white;       /* Establece el color del texto en blanco */
+            text-align: center; 
+            color: white;     
         }
     </style>
   <h1>How's it going?👋, I'm Carlos</h1>
