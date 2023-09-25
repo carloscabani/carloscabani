@@ -6,15 +6,22 @@
 
 <div id="header" align="center">
   <a href ="https://twitter.com/KRLOSS_RAR">
-    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/KRLOSS_RAR?style=for-the-badge&logo=X&logoColor=green">
+    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/KRLOSS_RAR?style=for-the-badge&logo=X&logoColor=green"> 
   </a>
 </div> 
 
+<div id="header" align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=carloscabani&style=for-the-badge) 
+  
+</div>
+
+  
 ---
 
 ### 👨‍💻 About me: 
 
-- 🏫 I am a volunteer for the Computer Society chapter of IEEE - ESPOL
+- 🏫 I am a volunteer for the Computer Society chapter of IEEE - ESPOL https://github.com/IEEEComputerSocietyESPOL
 
 - 📫 How to reach me: cacabani@espol.edu.ec
 
@@ -40,5 +47,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscabani&theme=tokyonight)](https://github.com/carloscabani/github-readme-stats) 
-
 
