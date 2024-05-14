@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200" />
   <h1 align="center">How's it going?👋, I'm Carlos</h1>
-  <h3 align="center"> I study Computer Science at ESPOL, I like cloud security and cybersecurity topics. You can visit my other social networks where I share the content I am learning.</h3>
+  <h3 align="center"> I study Computer Science at ESPOL, I like cloud security and cybersecurity topics.</h3>
 </div>
 
 <div id="header" align="center">
@@ -25,9 +25,10 @@
 ## Projects: 
 * [App Gestión Contactos](https://github.com/carloscabani/ProyectoEstructuras)
 * [Sistema de Urbanización](https://github.com/carloscabani/SistemaUrbanizacion)
+* [Tic-Tac-Tou](https://github.com/Sebaescu/Proyecto2PED)
 
 ## Interests:
-* [Networking, learn web development, security systems, scalable projects]
+* Networking, cibersecurity, security systems, scalable projects.
 
 <div align="left">
   <h3>🛠️ Languages and tools:</h3>
