@@ -5,12 +5,6 @@
 </div>
 
 <div id="header" align="center">
-  <a href ="https://twitter.com/KRLOSS_RAR">
-    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/KRLOSS_RAR?style=for-the-badge&logo=X&logoColor=green"> 
-  </a>
-</div> 
-
-<div id="header" align="center">
   
   ![](https://komarev.com/ghpvc/?username=carloscabani&style=for-the-badge) 
   
@@ -19,7 +13,7 @@
   
 ---
 
-### 👨‍💻 About me: 
+## 👨‍💻 About me: 
 
 - 🏫 I am a volunteer for the Computer Society chapter of IEEE - ESPOL https://github.com/IEEEComputerSocietyESPOL
 
@@ -27,7 +21,13 @@
 
 - 🌱 I'm learning java and python
 
-- 🌐 My social networks: https://linktr.ee/krlos.rar
+
+## Projects: 
+* [App Gestión Contactos](https://github.com/carloscabani/ProyectoEstructuras)
+* [Sistema de Urbanización](https://github.com/carloscabani/SistemaUrbanizacion)
+
+## Interests:
+* [Networking, learn web development, security systems, scalable projects]
 
 <div align="left">
   <h3>🛠️ Languages and tools:</h3>
