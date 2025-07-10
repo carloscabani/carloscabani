@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGs2Nnk1NmhqcGloOTU0ODlxa3FkeXAyZjk5MWVra3VyYWg0eXZ4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="200" />
   <h1 align="center">How's it going?👋, I'm Carlos</h1>
   <h3 align="center"> I study Computer Science at ESPOL, web development and new technologies.</h3>
 </div>
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: carloscabanilla@outlook.es
 
-- 🌱 I'm learning javascript and react. 
+- 🌱 I'm learning Javascript and React. 
 
 
 ## Projects: 
