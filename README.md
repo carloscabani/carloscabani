@@ -1,66 +1,162 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGs2Nnk1NmhqcGloOTU0ODlxa3FkeXAyZjk5MWVra3VyYWg0eXZ4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="200" />
-  <h1 align="center">How's it going?👋, I'm Carlos</h1>
-  <h3 align="center"> I study Computer Science at ESPOL, web development and new technologies.</h3>
+<div align="center">
+
+# Hey there! 👋 I'm Carlos Cabanilla
+
+### Computer Science Student | Software Development & QA Testing
+
+📍 Guayaquil, Ecuador
+
+Computer Science student at ESPOL, approaching graduation, with a strong interest in software development, software quality, and building practical technology solutions.
+
+I enjoy turning ideas into functional projects, exploring new technologies, and continuously improving my technical skills.
+
 </div>
-  
+
 ---
 
-## 👨‍💻 About me: 
+## 👨‍💻 About Me
 
-- 🏫 I am a volunteer for the Computer Society chapter of IEEE - ESPOL https://github.com/IEEEComputerSocietyESPOL
+- 🎓 Computer Science student at Escuela Superior Politécnica del Litoral (ESPOL).
+- 💻 Interested in software development, backend engineering, and software testing.
+- 🧪 Exploring quality assurance through manual and automated testing.
+- 🐧 Experienced in academic and personal projects involving Linux, Docker, databases, and distributed systems.
+- 🚀 Currently strengthening my portfolio through full-stack development and testing projects.
+- 🤝 Volunteer at IEEE Computer Society – ESPOL.
+- 🌎 Based in Ecuador and open to learning, collaboration, and professional opportunities.
 
-- 📫 How to reach me: carloscabanilla@outlook.es
+---
 
-- 🌱 I'm learning Javascript and React. 
+## 🛠️ Tech Stack
 
+### Programming Languages
 
-## Projects: 
-* [App Gestión Contactos](https://github.com/carloscabani/ProyectoEstructuras)
-* [Sistema de Urbanización](https://github.com/carloscabani/SistemaUrbanizacion)
-* [Tic-Tac-Tou](https://github.com/Sebaescu/Proyecto2PED)
-* [Organizatec](https://github.com/carloscabani/BuenosMuchachos)
-* [Blackjack game](https://github.com/carloscabani/Blackjack-game)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Development
 
-## Interests:
-* Web development, IA, security systems, scalable projects.
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div align="left">
-  <h3>🛠️ Languages and tools:</h3>
+### Testing & Quality Assurance
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Tools & Infrastructure
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the projects I've worked on, combining software development, systems engineering, artificial intelligence, and software testing.
+
+### 🐞 BugPilot — QA Management Platform
+
+A full-stack web application designed to manage software projects, track defects, organize test cases, and record test executions.
+
+The platform includes role-based authentication, defect lifecycle management, automated testing, and an explainable rule-based bug prioritization service.
+
+**Technologies:** React, TypeScript, Node.js, Express, PostgreSQL, Python, FastAPI, Docker, Playwright, Vitest, GitHub Actions.
+
+**Key Features:**
+
+- Project and defect management.
+- Role-based authentication and authorization.
+- Test case and test execution management.
+- Bug history and traceability.
+- Explainable bug priority suggestions.
+- Automated API and end-to-end testing.
+- CI/CD pipeline with GitHub Actions.
+
+[📂 View Repository](https://github.com/carloscabani/bugpilot-qa-platform)
+
+---
+
+### 🛡️ SIEM Lite — Linux Monitoring System
+
+A distributed monitoring solution designed to collect and analyze Linux system logs and container resource metrics.
+
+The project combines systems programming, process communication, containerization, and monitoring technologies to detect anomalies and visualize system activity.
+
+**Technologies:** C, Python, Linux, Docker, systemd, journalctl, Prometheus, PostgreSQL, Nginx.
+
+**Key Features:**
+
+- Multi-process log monitoring.
+- Linux service monitoring through journalctl.
+- Process communication using pipes.
+- Log classification by priority.
+- CPU, memory, and disk metrics.
+- Containerized monitoring environment.
+- Anomaly detection and alert generation.
+
+[📂 View Repository](https://github.com/carloscabani/siemlite-linux-monitoring)
+
+---
+
+### 🚗 Traffic CNN — Vehicle Detection System
+
+A computer vision project focused on detecting and quantifying vehicles in urban traffic intersections using convolutional neural networks.
+
+The system processes traffic images and predicts vehicle locations, bounding boxes, and detection confidence.
+
+**Technologies:** Python, PyTorch, Computer Vision, Deep Learning, ResNet18.
+
+**Key Features:**
+
+- Vehicle detection using convolutional neural networks.
+- ResNet18-based feature extraction.
+- Bounding box prediction.
+- Object detection and visualization.
+- Model training and evaluation.
+
+[📂 View Repository](https://github.com/carloscabani/Traffic_CNN-)
+
+---
+
+## 🎯 Current Focus
+
+I'm currently focused on expanding my knowledge and gaining practical experience in:
+
+- Software Development & Backend Engineering.
+- Software Testing & Quality Assurance.
+- Test Automation.
+- APIs and Database Management.
+- Building reliable and maintainable applications.
+
+My goal is to contribute to real-world technology projects while continuing to grow as a software engineer.
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to connecting with other developers, learning from new experiences, and exploring professional opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-cabanilla-6b19b7266/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloscabanilla@outlook.es)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloscabani)
+
+---
+
+<div align="center">
+
+*Always learning. Always building.*
+
 </div>
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-</p>
-<br/>
-
-
-## 📊 My Stats:
-
-
-![carloscabani GitHub stats](https://github-readme-stats.vercel.app/api?username=carloscabani&show_icons=true&theme=radical) 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscabani&theme=tokyonight)](https://github.com/carloscabani/github-readme-stats) 
-
