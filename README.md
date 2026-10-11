@@ -17,9 +17,8 @@ I enjoy turning ideas into functional projects, exploring new technologies, and 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student at Escuela Superior Politécnica del Litoral (ESPOL).
-- 💻 Interested in software development, backend engineering, and software testing.
 - 🧪 Exploring quality assurance through manual and automated testing.
-- 🐧 Experienced in academic and personal projects involving Linux, Docker, databases, and distributed systems.
+- 🐧 Experienced in academic and personal projects involving Linux, Docker, Databases, Computer Vision, QA Testing, IA.
 - 🚀 Currently strengthening my portfolio through full-stack development and testing projects.
 - 🤝 Volunteer at IEEE Computer Society – ESPOL.
 - 🌎 Based in Ecuador and open to learning, collaboration, and professional opportunities.
